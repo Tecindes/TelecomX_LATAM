@@ -14,6 +14,8 @@ TelecomX_LATAM es un proyecto de análisis predictivo diseñado para identificar
 - Extracción: Pasos a realizar para recuperar los datos, que utilizaremos para el análisis.
 ## Ejemplos de gráficos e insights obtenidos.
 - ![image](https://github.com/user-attachments/assets/e00d3551-f61d-45a9-b07b-8cca63cbab4c)
+- ![image](https://github.com/user-attachments/assets/9b61093a-0047-4146-9ea1-82d959b84fe7)
+
 
 ## Instrucciones para ejecutar el notebook.
 - Descripción de su proyecto;
