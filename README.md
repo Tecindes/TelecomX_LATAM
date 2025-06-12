@@ -31,6 +31,7 @@ TelecomX_LATAM es un proyecto de análisis predictivo diseñado para identificar
   - Interpretación de resultados
 - Cómo pueden usarlo los usuarios:
   - El archivo TelecomX_LATAM.ipynb se puede descarga para su posterior análisis y ejecución en un entorno de desarrollo adecuado.
+  - Puede descargar el archivo TelecomX_Data.json para trabajar la data en un entorno local, para lo cual tendría que modificar el proyecto para que extraiga los datos desde este archino y no desde la web como esta configurado inicialmente.
 - Donde los usuarios pueden encontrar ayuda sobre su proyecto:
   - Al correo miguelmartinezaa@hotmail.com
 - Autores del proyecto.
