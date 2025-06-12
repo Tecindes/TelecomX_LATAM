@@ -11,7 +11,10 @@
 ## Propósito
 TelecomX_LATAM es un proyecto de análisis predictivo diseñado para identificar las causas de la pérdida de clientes y mejorar su retención.
 ## La estructura del proyecto y organización de los archivos.
+- Extracción: Pasos a realizar para recuperar los datos, que utilizaremos para el análisis.
 ## Ejemplos de gráficos e insights obtenidos.
+- ![image](https://github.com/user-attachments/assets/e00d3551-f61d-45a9-b07b-8cca63cbab4c)
+
 ## Instrucciones para ejecutar el notebook.
 - Descripción de su proyecto;
 - funcionalidades;
