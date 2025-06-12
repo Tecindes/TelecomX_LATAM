@@ -22,9 +22,13 @@ TelecomX_LATAM es un proyecto de análisis predictivo diseñado para identificar
 
 ## Instrucciones para ejecutar el notebook.
 - Descripción de su proyecto:
-  - Uno de los recursos proporcionados por el lenguaje Python para el tratamiento de datos.
+  - Uso de los recursos proporcionados por el lenguaje Python para el tratamiento de datos.
 - funcionalidades:
-  - 
+  - Carga y manipulación de datos
+  - Limpieza de datos
+  - Análisis exploratorio de datos (EDA)
+  - Visualización de datos
+  - Interpretación de resultados
 - Cómo pueden usarlo los usuarios:
   - Como una guía que muestra los diferentes pasos para análisar datos.
 - Donde los usuarios pueden encontrar ayuda sobre su proyecto:
